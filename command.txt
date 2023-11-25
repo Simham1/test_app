@@ -1,0 +1,69 @@
+    1  yshu
+    2  git --version
+    3  pwd
+    4  ls
+    5  ls
+    6  clear
+    7  pwd
+    8  ls
+    9  mkdir test_app
+   10  cd test_app
+   11  ls
+   12  pwd
+   13  mkdir simham1
+   14  cd simham1
+   15  cd ..
+   16  clear
+   17  pwd
+   18  mkdir f1 f2 f3 f4
+   19  cd f1
+   20  mkdir f6 f5 f7
+   21  cd test-app
+   22  cd test_app
+   23  cd test_app
+   24  ls
+   25  cd test_app
+   26  cd ..
+   27  rmdir f2
+   28  rmdir f1
+   29  clear
+   30  ls
+   31  rm -r f1
+   32  rmdir f3 f2 
+   33  rmdir f4
+   34  touch f1.txt f2.sql f3.py
+   35  cat f1.txt
+   36  nano f1.txt
+   37  Cat f1.txt
+   38  nano f3.py
+   39  cat f3.py
+   40  clear
+   41  pwd
+   42  ls
+   43  cd simham1
+   44  pwd
+   45  mkdir a1 a2 a3
+   46  rmdir a1 a2 a3
+   47  cd ..
+   48  pwd
+   49  cat f1.text
+   50  nano f1.text
+   51  cat f1.text
+   52  pwd
+   53  touch f4.py f5.txt f6.sql
+   54  clear
+   55  rmdir f1.text
+   56  rm -r f1.text
+   57  cd simham1
+   58  mkdir a1 a2 a3
+   59  rm -r simham1
+   60  rm -rf simham1
+   61  pwd
+   62  ls
+   63  cd ..
+   64  rm -r simham1
+   65  rm -r f4.py f5.txt f6.sql
+   66  nano f2.sql
+   67  cat f2.sql
+   68  clear
+   69  history >> command.txt
